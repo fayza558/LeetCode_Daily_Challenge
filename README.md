@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0780-max-chunks-to-make-sorted) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3427-special-array-ii](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2868-continuous-subarrays](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2868-continuous-subarrays](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
