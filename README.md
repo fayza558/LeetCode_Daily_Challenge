@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
