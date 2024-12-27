@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1063-best-sightseeing-pair](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
