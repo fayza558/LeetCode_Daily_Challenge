@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1063-best-sightseeing-pair](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1063-best-sightseeing-pair) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
