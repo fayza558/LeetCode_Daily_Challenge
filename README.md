@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2868-continuous-subarrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String Matching
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
