@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1502-construct-k-palindrome-strings) |
+| [2509-minimize-xor](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
 | ------- |
@@ -52,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
