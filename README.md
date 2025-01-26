@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Graph
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1396-count-servers-that-communicate) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Union Find
 |  |
 | ------- |
@@ -120,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Tree
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Binary Tree
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
