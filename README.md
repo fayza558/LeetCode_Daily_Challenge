@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2533-bitwise-xor-of-all-pairings) |
