@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2685-first-completely-painted-row-or-column) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [2434-design-a-number-container-system](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
 |  |
