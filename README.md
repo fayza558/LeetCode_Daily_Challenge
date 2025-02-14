@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2145-grid-game) |
 ## Depth-First Search
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Math
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
