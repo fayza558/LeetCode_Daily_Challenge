@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1502-construct-k-palindrome-strings) |
+| [2107-find-unique-binary-string](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2685-first-completely-painted-row-or-column) |
@@ -211,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
