@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1477-product-of-the-last-k-numbers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -178,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Simulation
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
