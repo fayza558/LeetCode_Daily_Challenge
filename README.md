@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2145-grid-game) |
 ## Depth-First Search
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Data Stream
 |  |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/fayza558/LeetCode_Daily_Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
