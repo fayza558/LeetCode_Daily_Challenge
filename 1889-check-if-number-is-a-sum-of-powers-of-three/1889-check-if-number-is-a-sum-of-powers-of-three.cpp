@@ -1,12 +1,10 @@
 class Solution {
 public:
-
     bool checkPowersOfThree(int n) {
-        for(int i=15;i>=0;i--){
-            if(n>=pow(3,i)){
-               n-=pow(3,i);
-            }
-        }
-        return !n;
+     while(n){
+        if(n%3==2)return false;
+        n/=3;
+     }
+     return true;
     }
 };
